@@ -1,6 +1,11 @@
 <h1>Burger App<h1>
-<p>This is a practice of ReactJs course of Mr.Maximillian on udemy </p>
+This is a practice of ReactJs course of Mr.Maximillian on udemy
 <br>
-<p>Idea is to make a burger out of some ingredients and calculate its price</p>
-<p>It's only Front-End No back-End here</p>
-<p>It's responsive web application</p>
+Idea is to make a burger out of some ingredients and calculate its price
+<br>
+It's only Front-End No back-End here
+<br>
+It's responsive web application
+<br>
+
+![alt text](https://imgur.com/nlGJLPi)
