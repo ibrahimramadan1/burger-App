@@ -1,20 +1,35 @@
 <h1>Burger App<h1>
 This is a practice of ReactJs course of Mr.Maximillian on udemy
-<br>
+<br/>
 Idea is to make a burger out of some ingredients and calculate its price
-<br>
-It's only Front-End No back-End here
-<br>
-It's responsive web application
-<br>
-  <h3>this is mobile View </h3>
-<a href="https://imgur.com/F1qJVqo"><img src="https://i.imgur.com/F1qJVqo.png" title="first page" /></a>
-<a href="https://imgur.com/t3mmPAA"><img src="https://i.imgur.com/t3mmPAA.png" title="ingredients added" /></a>
-<a href="https://imgur.com/wEbZaUa"><img src="https://i.imgur.com/wEbZaUa.png" title="side drawer" /></a>
+<br/>
+I'm so proud to make this website, it teached me a lot of essintial topics: 
+  <ul>
+    <li> React Library </li>
+    <li> Single Page Applications </li>
+    <li> Components & its styling </li>
+    <li> Debugging React Apps </li>
+    <li> Accessing a Server through Axios </li>
+    <li> Adding Routing </li>
+    <li> Multi-Page-Feeling in a Single Page App Routing </li>
+    <li> Forms and Form Validation </li>
+    <li> Redux </li>
+    <li> Authantication </li>
+    <li> Testing with Jest </li>
+    <li> Deploying the App to the Web with Firebase </li>
+  </ul>
 
-<a href="https://imgur.com/yCU6s1S"><img src="https://i.imgur.com/yCU6s1S.png" title="Order Now Clicked" /></a>
-<h3>this is PC view</h3>
- <div style="width:100%;">
-<a href="https://imgur.com/ZNQ2AVa"><img src="https://i.imgur.com/ZNQ2AVa.png" title="source: imgur.com" /></a>
+You can simply use this website here : https://burger-app-e28d9.firebaseapp.com
+<br/>
+You can add any fake email to signUp like "yourName"Test@burgerApp.com
+<br/>
+If You wanted to run this app in ur machine you can simply clone this repo then add these commands in your CLI
+<br/>
+npm install 
+<br/>
+npm start
+<br/>
 
-</div>
+
+ 
+ 
