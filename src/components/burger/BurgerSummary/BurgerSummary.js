@@ -3,9 +3,6 @@ import Aux from '../../../hoc/Aux'
 import classes from './BurgerSummary.css'
 import Button from '../../UI/Button/Button'
 class BurgerSummary extends Component{
-    componentWillUpdate() {
-        console.log('[BurgerSummary.js] will update !');
-    }
     render(){
         let ordreSummary = Object.keys(this.props.ingredients)
         .map(igKey => {

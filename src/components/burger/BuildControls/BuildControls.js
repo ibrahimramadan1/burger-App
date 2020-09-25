@@ -15,7 +15,7 @@ const BuildControls=(props)=>{
       added={()=>props.ingredientAdded(obj.type)}
       removed={()=>props.ingredientRemoved(obj.type)}
       disabled={props.disabled[obj.type]}/>;})}
-      <button className={classes.OrderButton} disabled={!props.purchasable} onClick={props.purchasing}>Order Now!!</button>
+      <button className={classes.OrderButton} disabled={!props.purchasable} onClick={props.purchasing}>{props.isAuth?'Order Now!!':'SignUp to continue!'}</button>
     </div>);
 }
 export default BuildControls;
