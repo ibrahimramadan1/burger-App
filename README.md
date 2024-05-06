@@ -1,9 +1,9 @@
-<h1>Burger App<h1>
+<h1>Burger App</h1>
+<p>
 This is a practice of ReactJs course of Mr.Maximillian on udemy
-<br/>
 Idea is to make a burger out of some ingredients and calculate its price
-<br/>
-I'm so proud to make this website, it teached me a lot of essintial topics: 
+  <br/>
+Essintial topics: 
   <ul>
     <li> React Library </li>
     <li> Single Page Applications </li>
@@ -23,12 +23,8 @@ You can simply use this website here : https://burger-app-e28d9.firebaseapp.com
 <br/>
 You can add any fake email to signUp like "yourName"Test@burgerApp.com
 <br/>
-If You wanted to run this app in ur machine you can simply clone this repo then add these commands in your CLI
-<br/>
-npm install 
-<br/>
-npm start
-<br/>
+</p>
+
 
 
  
